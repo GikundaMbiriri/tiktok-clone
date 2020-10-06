@@ -29,7 +29,7 @@ function Video() {
       <VideoFooter
         channel="mgikunda"
         description="Am excited I completed this"
-        song=" This is something close to tiktok "
+        song=" great stuff "
       />
       <VideoSidebar />
     </div>
